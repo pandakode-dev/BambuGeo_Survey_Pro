@@ -56,4 +56,4 @@ BambuGeo adalah aplikasi pemetaan geospasial lapangan (*Field GIS*), survei bata
 ## 👨‍💻 Kontributor
 Dikembangkan oleh **Muhammad Saputra**  
 🏢 **Founder of PandaKode** (Pekanbaru, Riau, Indonesia)  
-🔗 GitHub: [@breto1](https://github.com/breto1)
+🔗 GitHub: [@breto1](https://github.com/pandakode-dev)
