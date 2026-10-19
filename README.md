@@ -11,7 +11,7 @@
 ![RF Engine](https://img.shields.io/badge/Physics-Link%20Budget%20%26%20Fresnel-0D9488?style=for-the-badge&logo=physics&logoColor=white)
 
 **BambuGeo** adalah aplikasi pemetaan geospasial lapangan (*Field GIS*), survei batas kadastral/perkebunan, kompas geologi struktur, dan kalkulator konstruksi teknik sipil *native* Android yang dirancang khusus untuk surveyor tanah, insinyur sipil, praktisi kehutanan/perkebunan sawit, dan peneliti geologi lapangan (*indoor/outdoor*). Aplikasi ini membawa identitas visual instrumen survei *Total Station* modern dengan tema **Terra Forest, Safety Theodolite Amber, dan Blueprint Slate**.
-
+</div>
 ---
 
 ## 📸 Tampilan Utama (Features Preview)
