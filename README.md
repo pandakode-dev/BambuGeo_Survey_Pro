@@ -63,6 +63,6 @@
 ---
 
 ## 👨‍💻 Kontributor
+
 Dikembangkan oleh **Muhammad Saputra**  
-🏢 **Founder of PandaKode** (Pekanbaru, Riau, Indonesia)  
-🔗 GitHub: [@breto1](https://github.com/pandakode-dev)
+🏢 **Founder of PandaKode** *(Pekonbaru, Riau, Indonesia)*
