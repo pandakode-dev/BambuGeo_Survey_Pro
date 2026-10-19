@@ -1,5 +1,7 @@
 package com.pandakode.bambugeo
-
+import androidx.compose.foundation.Image
+import androidx.compose.ui.res.painterResource
+import androidx.compose.foundation.shape.CircleShape
 import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
@@ -99,14 +101,14 @@ fun SplashScreenContent(onTimeout: () -> Unit) {
             modifier = Modifier.padding(24.dp)
         ) {
             // 1. LOGO VECTOR CANVAS (THEODOLITE + POLYGON + BAMBOO)
-            Box(
+            Image(
+                painter = painterResource(id = R.drawable.bambugeo_logo),
+                contentDescription = "Logo Panda Geo Survey Pro",
                 modifier = Modifier
-                    .size(165.dp)
-                    .scale(pulseScale),
-                contentAlignment = Alignment.Center
-            ) {
-                BambuGeoLogoCanvas(rotationDegrees = radarRotation)
-            }
+                    .size(150.dp)
+                    .scale(pulseScale)
+                    .clip(CircleShape)
+            )
 
             Spacer(modifier = Modifier.height(28.dp))
 
