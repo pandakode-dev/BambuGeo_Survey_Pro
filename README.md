@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="app/src/main/res/drawable/bambugeo_logo.png" alt="Logo Bambu Geo " width="150" />
+
 # 🐼 BambuGeo — Pro Field GIS, Geodesy & Civil Engineering Suite
 **An Advanced Native Android Land Polygon Plotter, Geological Brunton Compass, Geodesic UTM/COGO & Civil Estimator**
 
