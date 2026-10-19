@@ -5,7 +5,12 @@
 # 🐼 BambuGeo — Pro Field GIS, Geodesy & Civil Engineering Suite
 **An Advanced Native Android Land Polygon Plotter, Geological Brunton Compass, Geodesic UTM/COGO & Civil Estimator**
 
-BambuGeo adalah aplikasi pemetaan geospasial lapangan (*Field GIS*), survei batas kadastral/perkebunan, kompas geologi struktur, dan kalkulator konstruksi teknik sipil *native* Android yang dirancang khusus untuk surveyor tanah, insinyur sipil, praktisi kehutanan/perkebunan sawit, dan peneliti geologi lapangan (*indoor/outdoor*). Aplikasi ini membawa identitas visual instrumen survei *Total Station* modern dengan tema **Terra Forest, Safety Theodolite Amber, dan Blueprint Slate**.
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose%20(Material%203)-0F172A?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Map OSM](https://img.shields.io/badge/Maps-OpenStreetMap%20(Leaflet.js)-06B6D4?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![RF Engine](https://img.shields.io/badge/Physics-Link%20Budget%20%26%20Fresnel-0D9488?style=for-the-badge&logo=physics&logoColor=white)
+
+**BambuGeo** adalah aplikasi pemetaan geospasial lapangan (*Field GIS*), survei batas kadastral/perkebunan, kompas geologi struktur, dan kalkulator konstruksi teknik sipil *native* Android yang dirancang khusus untuk surveyor tanah, insinyur sipil, praktisi kehutanan/perkebunan sawit, dan peneliti geologi lapangan (*indoor/outdoor*). Aplikasi ini membawa identitas visual instrumen survei *Total Station* modern dengan tema **Terra Forest, Safety Theodolite Amber, dan Blueprint Slate**.
 
 ---
 
